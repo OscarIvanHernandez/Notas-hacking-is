@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/Level7a8.md",
+            "file": "retos-bandit/Level16a17.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "right": {
     "id": "313f88c01fb13c43",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level7a8.md",
+                "file": "retos-bandit/Level16a17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level7a8.md",
+                "file": "retos-bandit/Level16a17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level7a8.md"
+                "file": "retos-bandit/Level16a17.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d638830aaef8afa",
+  "active": "45cecee3ffed975a",
   "lastOpenFiles": [
-    "retos-bandit/Level8a9.md",
+    "retos-bandit/Level17a18.md",
     "retos-bandit/Level16a17.md",
     "retos-bandit/Level15a16.md",
     "retos-bandit/Level14a15.md",
-    "retos-bandit/bandit.md",
     "retos-bandit/Level13a14.md",
+    "retos-bandit/Level18a19.md",
     "retos-bandit/Level12a13.md",
     "retos-bandit/Level11a12.md",
     "retos-bandit/Level10a11.md",
-    "retos-bandit/Level0.md"
+    "retos-bandit/Level9a10.md"
   ]
 }

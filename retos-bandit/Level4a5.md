@@ -5,7 +5,7 @@ The password for the next level is stored in the only human-readable file in the
 
 ## Datos de acceso
 bandit4
-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ## Solucion
 bandit4@bandit:~$ ls
 inhere
@@ -17,7 +17,7 @@ cat: ./file00: No such file or directory
 bandit4@bandit:~/inhere$ cat ./-file02
 e)#5pV_ׯmmbandit4@bandit:~/inhere$ cat ./-file05
 rl$?h9('!ye#xO=bandit4@bandit:~/inhere$ cat ./-file07
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 bandit4@bandit:~/inhere$ exit
 
 

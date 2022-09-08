@@ -9,7 +9,7 @@ The password for the next level is stored in a file somewhere under the **inher
 
 ## Datos de acceso
 bandit5
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
 ## Solucion
 bandit5@bandit:~$ ls
@@ -42,7 +42,7 @@ drwxr-x---  2 root bandit5 4096 May  7  2020 maybehere19
 bandit5@bandit:~/inhere$ find -type f -size 1033c
 ./maybehere07/.file2
 bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         bandit5@bandit:~/inhere$ exit
 
 

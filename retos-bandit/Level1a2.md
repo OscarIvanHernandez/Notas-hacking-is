@@ -5,7 +5,7 @@ The password for the next level is stored in a file called **-** located in th
 
 ## Datos de acceso
 bandit1
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ## Solucion
 bandit1@bandit:~$ cat readme
 cat: readme: No such file or directory
@@ -16,7 +16,7 @@ bandit1@bandit:~$ ls
 bandit1@bandit:~$ file readme
 readme: cannot open `readme' (No such file or directory)
 bandit1@bandit:~$ cat ./-
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 bandit1@bandit:~$ exit
 
 ## Notas adicionales

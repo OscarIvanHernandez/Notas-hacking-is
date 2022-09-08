@@ -5,7 +5,7 @@ The password for the next level is stored in a hidden file in the **inhere** d
 
 ## Datos de acceso
 bandit3
-UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ## Solucion
 bandit3@bandit:~$ ls
 inhere
@@ -16,7 +16,7 @@ drwxr-xr-x 2 root    root    4096 May  7  2020 .
 drwxr-xr-x 3 root    root    4096 May  7  2020 ..
 -rw-r----- 1 bandit4 bandit3   33 May  7  2020 .hidden
 bandit3@bandit:~/inhere$ cat ./.hidden
-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 bandit3@bandit:~/inhere$
 
 ## Notas adicionales
